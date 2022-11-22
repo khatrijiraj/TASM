@@ -10,3 +10,4 @@
 *.map
 *.obj
 *.zip
+!html2pdf/*.pdf
