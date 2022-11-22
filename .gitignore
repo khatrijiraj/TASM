@@ -7,3 +7,5 @@
 *.dll
 *.txt
 *.ovl
+*.map
+*.obj
