@@ -1,6 +1,9 @@
 #pdfs, docx etc.
-.pdf
-.docx
-.exe
-.bat
-.wcf
+*.pdf
+*.docx
+*.exe
+*.bat
+*.wcf
+*.dll
+*.txt
+*.ovl
